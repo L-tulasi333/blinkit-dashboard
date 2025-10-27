@@ -1,5 +1,5 @@
 # blinkit-dashboard
-## The dataset contains sales and operations data with the following key fields:
+## 1. The dataset contains sales and operations data with the following key fields:
 Item Identifier – Unique identifier for each item
 Item Type – Category of the product (Fruits, Frozen, Household, etc.)
 Item Fat Content – Nutrition information (Regular, Low Fat)
